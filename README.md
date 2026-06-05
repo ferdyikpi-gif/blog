@@ -1,30 +1,8 @@
 # Deep Insights from the Stack Overflow Developer Landscape
-<div style="
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-    padding: 40px 30px;
-    border-radius: 12px;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #f8fafc;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-    margin: 25px 0;
-    border: 1px solid #334155;
-">
-    <div style="font-size: 14px; text-transform: uppercase; letter-spacing: 3px; color: #38bdf8; font-weight: bold; margin-bottom: 10px;">
-        Data Science Case Study
-    </div>
-    <div style="font-size: 28px; font-weight: 800; line-height: 1.3; margin-bottom: 15px; background: linear-gradient(to right, #ffffff, #94a3b8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        Predicting Global Developer Success
-    </div>
-    <div style="font-size: 15px; color: #94a3b8; max-width: 600px; margin: 0 auto 25px auto; line-height: 1.5;">
-        An algorithmic deep dive into the macroeconomic trends, tech-stack specializations, and environmental factors shaping modern engineering compensation.
-    </div>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <span style="background: #0284c7; color: white; padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600;">📊 CRISP-DM Framework</span>
-        <span style="background: #1e293b; color: #38bdf8; padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600; border: 1px solid #38bdf8;">🌲 Random Forest Regressor</span>
-        <span style="background: #111827; color: #94a3b8; padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600;">💡 35,445 Profiles</span>
-    </div>
-</div>
+
+<img width="1233" height="309" alt="image" src="https://github.com/user-attachments/assets/9afccce1-e713-45cd-bc23-c8d5dc839b16" />
+
+
 ## What are the most important features of the data set, what do they mean, and how do they drive the predicted outcome?
 
 In predicting the success of the developer, it is primarily measured by annual compensation and high job satisfaction. However, the data reveals that a mix of experience, geography, and specific tech stack alignment dictates the outcome.
